@@ -1,7 +1,7 @@
 # Honeypot-Automation-and-Data-Collection
 
 # Cloning the Repository & Initial Setup
-`. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/cwsecur1ty/Honeypot-Automation-and-Data-Collection
 ```
