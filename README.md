@@ -1,7 +1,15 @@
 # Honeypot-Automation-and-Data-Collection
 
-# Initial Setup
-1. Replace 'your_password' (in the honeypot_setup.sh file) with the appropriate secure password for the MySQL user.
+# Cloning the Repository & Initial Setup
+`. Clone the Repository
+```bash
+git clone https://github.com/cwsecur1ty/Honeypot-Automation-and-Data-Collection
+```
+2. Replace 'your_password' (in the honeypot_setup.sh file) with the appropriate secure password for the MySQL user.
+3. Execute the script on your linux server.
+```bash
+sudo honeypot_setup.sh
+```
 
 # After Running honeypot_setup.sh
 1. Verify Installation
